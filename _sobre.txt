@@ -1,0 +1,1 @@
+Software de gerenciamento rural e de rebanho leiteiro, feito em liguagem Java usando banco de dados PostgreSQL
